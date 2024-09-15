@@ -21,6 +21,8 @@
   font-family: 'Courier New', Courier, monospace;
 }
 
+
+
 .bg-header {
   background-image: url(https://wallpapercave.com/wp/2uJmo4o.jpg);
 }
@@ -57,8 +59,7 @@
   font-weight: bolder;
   position: relative;
   display: inline-block;
-  /* Hilangkan kotak merah dan animasi shake */
-  /* Menghapus efek before pseudoelement yang membuat kotak merah */
+
 }
 
 .description {
